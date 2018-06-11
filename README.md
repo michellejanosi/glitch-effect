@@ -2,4 +2,4 @@
 
 // Glitch effect using CSS //
 
-![glitch effect](glitch-effect.gif =502x310)
+![glitch effect](https://github.com/michellejanosi/glitch-effect/blob/master/glitch-effect.gif)
